@@ -5,21 +5,21 @@
 * { box-sizing: border-box; }
 
 html {
-  /* apply a natural box layout model to all elements */
+  /* apply a natural box layout model to all elements 모바일 */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px;
-
+  font-size: 14px;
+  /*  창의 크기에 따른 글자 크기 */
   @include breakpoint($medium) {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   @include breakpoint($large) {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 22px;
+    font-size: 18px;
   }
 
   -webkit-text-size-adjust: 100%;
