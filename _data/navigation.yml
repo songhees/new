@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "project"
-    url: /project/
+    url: /categories/project
   - title: "daily"
     url: /categories/daily
   - title: "알고리즘"
