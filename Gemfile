@@ -6,4 +6,5 @@ gem 'tzinfo'
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :jekyll_plugins do
 gem "jekyll-last-modified-at"
+gem "jekyll-sitemap"
 end
