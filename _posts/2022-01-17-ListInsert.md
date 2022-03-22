@@ -1,5 +1,6 @@
 ---
 title: "insert의 다중처리"
+excerpt: "database의 트랜잭션 횟수를 줄여보자!"
 categories: project
 tags: project
 last-modified-at: {{ page.last_modified_at }}
