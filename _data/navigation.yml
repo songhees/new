@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "study"
+    url: /categories/study
   - title: "project"
     url: /categories/project
   - title: "daily"

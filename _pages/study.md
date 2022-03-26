@@ -1,6 +1,6 @@
 ---
 title: "study"
-layout: category
+layout: collection
 permalink: /categories/study
 author_profile: true
 taxonomy: study
